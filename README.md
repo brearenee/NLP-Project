@@ -1,4 +1,4 @@
 # CS39AA-Project
 
-DataSet from 
-https://www.kaggle.com/datasets/birkoruzicka/startrekdialoguetranscripts
+Brea Chaney
+NLP Project Fall 2023
